@@ -1,0 +1,7 @@
+{
+    "tenant": "MFXInfotechPvtLtd.onmicrosoft.com",
+    "authorityHostUrl": "https://login.windows.net",
+    "clientId": "ef0014a3-62c2-4b36-bba8-b4791dab2cd6",
+    "clientSecret": "vGKzLfsD8B3OZ2zEPla/oP3XGgD51Y6KJC+yfrS2FFg=",
+    "resource": "https://yoursite.sharepoint.com"
+}

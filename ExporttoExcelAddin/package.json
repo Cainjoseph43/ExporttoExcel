@@ -1,0 +1,20 @@
+{
+  "name": "ExportExcelAddin",
+  "version": "0.0.1",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git:github.com/RajuBisht/ExporttoExcel"
+  },
+  "main": "main.js",
+  "dependencies": {
+    "adal-node": ">= 0.1.22",
+    "express": "4.15.3",
+    "connect-logger": "0.0.1",
+    "cookie-parser": "1.4.3",
+    "cookie-session": "2.0",
+    "msexcel-builder": "0.0.2",
+    "unirest": "0.5.1",
+    "body-parser": "1.17.x"
+  }
+}
